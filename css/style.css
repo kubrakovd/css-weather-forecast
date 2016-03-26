@@ -1,0 +1,139 @@
+* {
+	transition: all .1s ease-in;
+	}
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background: #3399CC;
+	border:15px solid #2B81AC;
+	font: 14px/1.3 "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:#fff;
+	box-sizing: border-box;
+	margin:0;
+	padding-bottom:680px;
+}
+
+.dk-container {
+	max-width: 60%;
+	margin: 0 auto;
+}
+
+.dk-header h2 {
+	display: inline-block;
+	font-size: 24px;
+}
+
+.dk-footer {
+	font-size: 18px;
+	margin-top: px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.dk-header i {
+	font-size: 26px;
+}
+
+.dk-weather-forecast {
+	font-size: 0;
+	padding: 2px;
+	text-align: center;
+}
+
+.dk-weather-forecast {
+	font-size:0;
+	padding:3px;
+	background-color: #FFFFFF;
+}
+
+.dk-weather-forecast li {
+	display: inline-block;
+	border: 3px solid #fff;
+	font-size: 16px;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.dk-weather-forecast span{
+	opacity: .7;
+	font-size:20px;
+}
+
+.dk-weather-forecast span:after {
+	content: "°C";
+}
+
+.dk-weather-forecast i {
+	font-size: 30px;
+	vertical-align: top;
+	opacity: .8;
+}
+
+.dk-weather-forecast:hover li{
+	opacity: .7;
+}
+
+.dk-weather-forecast li:hover {
+	opacity: 1;
+}
+
+.Lisbon {
+	width: 50%;
+	background-color: #39C;
+}
+
+.Paris {
+	width: 25%;
+	background-color: #33CCCC;
+}
+
+.Belgrade {
+	width: 25%;
+	background-color: #969;
+}
+
+.Moscow {
+	width: 25%;
+	background-color: #C24747;
+}
+
+.Tel_Aviv {
+	width: 25%;
+	background-color: #E2674A;
+
+
+}
+.Cair {
+	width: 25%;
+	background-color: #FFCC66;
+}
+
+.New_York {
+	width: 25%;
+	background-color: #99CC99;
+}
+
+.New_Delhi {
+	width: 25%;
+	background-color: #699;
+}
+
+.San_Francisco {
+	width: 50%;
+	background-color: #C69;
+}
+
+.Tokyo {
+	width: 25%;
+	background-color: #396;
+}
+
+.Sydney {
+	width: 100%;
+	background-color: #669;
+}
