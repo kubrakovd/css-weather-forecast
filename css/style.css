@@ -17,7 +17,7 @@ body {
 }
 
 .dk-container {
-	max-width: 60%;
+	max-width: 800px;
 	margin: 0 auto;
 }
 
@@ -82,58 +82,58 @@ li {
 	opacity: 1;
 }
 
-.Lisbon {
+.lisbon {
 	width: 50%;
 	background-color: #39C;
 }
 
-.Paris {
+.paris {
 	width: 25%;
 	background-color: #33CCCC;
 }
 
-.Belgrade {
+.belgrade {
 	width: 25%;
 	background-color: #969;
 }
 
-.Moscow {
+.moscow {
 	width: 25%;
 	background-color: #C24747;
 }
 
-.Tel_Aviv {
+.tel-aviv {
 	width: 25%;
 	background-color: #E2674A;
 
 
 }
-.Cair {
+.cair {
 	width: 25%;
 	background-color: #FFCC66;
 }
 
-.New_York {
+.new-york {
 	width: 25%;
 	background-color: #99CC99;
 }
 
-.New_Delhi {
+.new-delhi {
 	width: 25%;
 	background-color: #699;
 }
 
-.San_Francisco {
+.san-francisco {
 	width: 50%;
 	background-color: #C69;
 }
 
-.Tokyo {
+.tokyo {
 	width: 25%;
 	background-color: #396;
 }
 
-.Sydney {
+.sydney {
 	width: 100%;
 	background-color: #669;
 }
